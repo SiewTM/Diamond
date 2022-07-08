@@ -1,0 +1,12 @@
+D:\glasshour\Diamond>javac Diamond.java
+
+D:\glasshour\Diamond>java Diamond
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
